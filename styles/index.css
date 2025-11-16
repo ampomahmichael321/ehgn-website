@@ -121,6 +121,10 @@ h1 {
   object-fit: cover;
 }
 
+.outreach-img {
+  filter: blur(1px);
+}
+
 .join-us-button,
 .browse-sermons-button {
   color: white;
