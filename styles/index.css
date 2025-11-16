@@ -367,6 +367,12 @@ footer {
 }
 /*Media Queries*/
 
+@media (max-width: 600px) {
+  .outreaches-image {
+    padding: 0.5em 1.5em;
+  }
+}
+
 @media (min-width: 900px) {
   .nav-menu,
   .menu {
