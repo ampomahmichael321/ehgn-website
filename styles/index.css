@@ -420,7 +420,7 @@ footer {
   .outreaches-overlay-text {
     display: none;
   }
-  .flex-section {
+  .outreaches-flex-section {
     display: flex;
     justify-content: center;
     align-items: center;
