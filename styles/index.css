@@ -288,7 +288,7 @@ button:hover,
 }
 .outreaches-overlay-text a {
   font-size: 0.7em;
-  display: block;
+  display: inline-block;
   text-decoration: none;
 }
 .outreaches-text {
