@@ -280,6 +280,7 @@ button:hover,
   padding: 2em;
 }
 .outreaches-overlay-text {
+  bottom: 0.8em;
   font-size: 2em;
 }
 .outreaches-overlay-text a {
