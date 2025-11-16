@@ -333,6 +333,7 @@ footer {
   gap: 1em;
 }
 .outreaches-mobile-buttons button {
+  background-color: #1c1c1cf1;
   color: white;
   width: 14.6em;
   height: 2.7em;
