@@ -430,7 +430,7 @@ footer {
     flex-direction: column;
   }
   .outreaches-text,
-  .outreaches-image {
+  .outreaches-left {
     flex: 0 0 30em;
   }
   .outreaches-mobile-buttons {
