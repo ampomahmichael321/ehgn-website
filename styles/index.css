@@ -284,6 +284,7 @@ button:hover,
   bottom: 0.8em;
   left: 0.5em;
   font-size: 2em;
+  z-index: 20;
 }
 .outreaches-overlay-text a {
   font-size: 0.7em;
