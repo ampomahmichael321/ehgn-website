@@ -274,6 +274,7 @@ button:hover,
 }
 
 .outreaches-image {
+  max-width: 25em;
   height: 23em;
   position: relative;
   padding: 2em;
