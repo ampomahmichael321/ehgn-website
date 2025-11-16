@@ -274,7 +274,7 @@ button:hover,
 }
 
 .outreaches-image {
-  max-width: 100%;
+  max-width: 20em;
   height: 23em;
   position: relative;
   padding: 2em;
@@ -369,7 +369,7 @@ footer {
 
 @media (max-width: 600px) {
   .outreaches-image {
-    padding: 0.5em 1.5em;
+    margin: 0.5em 1.5em;
   }
 }
 
