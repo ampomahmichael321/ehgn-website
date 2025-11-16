@@ -121,7 +121,10 @@ h1 {
 }
 
 .outreach-img {
-  filter: blur(0px);
+  filter: brightness(50%) blur(0px);
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  will-change: transform;
 }
 
 .join-us-button,
@@ -281,6 +284,10 @@ button:hover,
 
 .outreaches-text {
   display: none;
+}
+
+.outreaches-flex-left {
+  overflow: hidden;
 }
 
 footer {
