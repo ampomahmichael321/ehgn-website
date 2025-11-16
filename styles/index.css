@@ -429,8 +429,8 @@ footer {
     display: flex;
     flex-direction: column;
   }
-  .outreaches-text,
-  .outreaches-left {
+  .outreaches-flex-right,
+  .outreaches-flex-left {
     flex: 0 0 30em;
   }
   .outreaches-mobile-buttons {
