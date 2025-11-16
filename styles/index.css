@@ -91,7 +91,8 @@ h1 {
   position: relative;
   overflow: hidden;
 }
-.hero-section-overlay {
+.hero-section-overlay,
+.outreaches-overlay-text {
   position: absolute;
   top: 35%;
   left: 0;
@@ -112,10 +113,11 @@ h1 {
   z-index: 1;
 }
 
-.hero-bg-img {
+.hero-bg-img,
+.outreach-img {
   width: 100%;
   height: 100%;
-  filter: brightness(50%) blur(3px);
+  filter: brightness(45%) blur(5px);
   object-fit: cover;
 }
 
@@ -267,7 +269,6 @@ button:hover,
   padding: 2em;
 }
 .outreaches-overlay-text {
-  position: absolute;
   bottom: 0.8em;
   font-size: 2em;
 }
