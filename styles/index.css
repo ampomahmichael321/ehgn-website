@@ -122,7 +122,7 @@ h1 {
 }
 
 .outreach-img {
-  filter: blur(1px);
+  filter: blur(0px);
 }
 
 .join-us-button,
