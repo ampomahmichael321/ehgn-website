@@ -433,6 +433,9 @@ footer {
   .outreaches-flex-left {
     flex: 0 0 30em;
   }
+  .outreaches-image {
+    max-width: 30em;
+  }
   .outreaches-mobile-buttons {
     display: none;
   }
