@@ -280,15 +280,12 @@ button:hover,
   padding: 2em;
 }
 .outreaches-overlay-text {
-  position: absolute;
   bottom: 0.8em;
-  left: 0.5em;
   font-size: 2em;
-  z-index: 20;
 }
 .outreaches-overlay-text a {
   font-size: 0.7em;
-  display: inline-block;
+  display: block;
   text-decoration: none;
 }
 .outreaches-text {
