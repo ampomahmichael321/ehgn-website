@@ -40,3 +40,12 @@ const swiper = new Swiper(".heroSwiper", {
     prevEl: ".swiper-button-prev",
   },
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+  const outreachesSwiper = new Swiper(".outreachesSwiper", {
+    loop: true,
+    autoplay: { delay: 4000 },
+    slidesPerView: 1,
+    spaceBetween: 10,
+  });
+});
