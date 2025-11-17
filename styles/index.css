@@ -145,7 +145,7 @@ h1 {
 }
 
 .button-grid .support-us-button {
-  padding: 0;
+  padding: -2em;
 }
 
 .button-grid {
