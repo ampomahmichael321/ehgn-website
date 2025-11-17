@@ -280,6 +280,11 @@ button:hover,
   padding: 2em 4em;
 }
 
+.outreaches-image-overlay a {
+  font-style: bold;
+  color: yellow;
+}
+
 .outreaches-text {
   display: none;
 }
