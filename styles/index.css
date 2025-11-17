@@ -278,6 +278,7 @@ button:hover,
   position: absolute;
   left: 0.5em;
   bottom: 0.8em;
+  width: 40%;
 }
 
 .outreaches-text {
