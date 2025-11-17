@@ -151,6 +151,7 @@ h1 {
 
 .browse-sermons-button {
   width: 10em;
+  z-index: 1;
 }
 button,
 .button {
