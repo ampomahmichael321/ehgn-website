@@ -144,6 +144,10 @@ h1 {
   height: 2rem;
 }
 
+.button-grid .support-us-button {
+  padding: 0;
+}
+
 .button-grid {
   margin-top: 2em;
   display: flex;
