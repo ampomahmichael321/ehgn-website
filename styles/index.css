@@ -481,7 +481,7 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 20%;
+    gap: 12%;
     padding: 3em 0;
   }
   .contact-form,
