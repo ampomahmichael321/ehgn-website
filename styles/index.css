@@ -345,6 +345,9 @@ footer {
   padding: 2em 0;
   width: 20em;
 }
+.footer-left h2 {
+  margin-bottom: 2em;
+}
 
 .outreaches-mobile-buttons {
   display: flex;
@@ -478,8 +481,7 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 2em;
-    gap: 5em;
+    gap: 7em;
   }
   .contact-form {
     width: 40%;
