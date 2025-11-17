@@ -476,11 +476,12 @@ footer {
 
   footer {
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 2em 8em;
+    gap: 3em;
   }
   .contact-form {
-    width: 45%;
+    width: 40%;
   }
 }
