@@ -274,6 +274,11 @@ button:hover,
   height: 23em;
   position: relative;
 }
+.outreaches-image-overlay {
+  position: absolute;
+  left: 0.5em;
+  bottom: 0.8em;
+}
 
 .outreaches-text {
   display: none;
@@ -422,7 +427,7 @@ footer {
   .sermon-card {
     flex: 0 0 25em;
   }
-  .outreaches-overlay-text {
+  .outreaches-image-overlay {
     display: none;
   }
   .outreaches-section {
