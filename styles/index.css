@@ -141,9 +141,7 @@ h1 {
   border: none;
   text-align: center;
   max-width: 12em;
-  height: 2rem;
 }
-
 .button-grid {
   margin-top: 2em;
   display: flex;
