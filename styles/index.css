@@ -204,6 +204,10 @@ button,
   gap: 2em;
 }
 
+.mission-vision p {
+  font-size: 0.7em;
+}
+
 .mission-section h4,
 .vision-section h4 {
   text-align: center;
