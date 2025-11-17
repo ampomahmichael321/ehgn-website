@@ -221,8 +221,10 @@
         </div>
      
         <form class="contact-form">
-          <input type="text" class="form-input" required placeholder="Eg. John Doe" name="name">
-          <input type="email" class="form-input" required placeholder="Eg. johndoe@website.com" name="email">
+          <label for="name">Name</label>
+          <input id="name" type="text" class="form-input" required placeholder="Eg. John Doe" name="name">
+          <label for="email">Email</label>
+          <input id="email" type="email" class="form-input" required placeholder="Eg. johndoe@website.com" name="email">
           <textarea name="message" class="form-input textarea" required placeholder="Enter your message here"></textarea>
           <button class="support-us-button " id="submit-button" type="submit">Send</button>
         </form>
