@@ -270,7 +270,7 @@ button:hover,
 }
 
 .outreaches-image {
-  max-width: 30em;
+  width: 30em;
   height: 23em;
   position: relative;
 }
@@ -278,7 +278,7 @@ button:hover,
   position: absolute;
   left: 0.5em;
   bottom: 0.8em;
-  width: 40%;
+  width: 80%;
   color: white;
   backdrop-filter: blur(5px);
 }
