@@ -338,7 +338,7 @@ footer {
   height: 10em;
 }
 
-.contact-links {
+.footer-left {
   display: flex;
   flex-direction: column;
   gap: 0.8em;
@@ -478,8 +478,8 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 2em 8em;
-    gap: 3em;
+    padding: 2em;
+    gap: 5em;
   }
   .contact-form {
     width: 40%;
