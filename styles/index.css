@@ -484,6 +484,6 @@ footer {
     gap: 7em;
   }
   .contact-form {
-    width: 40%;
+    max-width: 40em;
   }
 }
