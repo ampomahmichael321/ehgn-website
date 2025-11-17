@@ -277,9 +277,10 @@ button:hover,
 .outreaches-image-overlay {
   position: absolute;
   left: 0.5em;
-  bottom: 0.8em;
+  bottom: 0;
   width: 80%;
   color: white;
+  padding: 2em;
   backdrop-filter: blur(5px);
 }
 
