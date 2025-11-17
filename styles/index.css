@@ -486,6 +486,6 @@ footer {
   }
   .contact-form,
   .footer-left {
-    max-width: 40%;
+    width: 35%;
   }
 }
