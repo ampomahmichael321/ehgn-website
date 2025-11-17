@@ -117,7 +117,7 @@ h1 {
 .outreach-img {
   width: 100%;
   height: 100%;
-  filter: brightness(45%) blur(3px);
+  filter: brightness(45%) blur(1px);
   object-fit: cover;
 }
 
